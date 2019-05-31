@@ -1,0 +1,14 @@
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import '~leaflet/dist/leaflet.css';
+@import '~font-awesome/scss/font-awesome.scss';
+@import 'loader';
+
+.row {
+    margin: 0;
+}
+.pointer {
+    cursor: pointer;
+}
